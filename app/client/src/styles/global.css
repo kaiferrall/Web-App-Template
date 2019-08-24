@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.loading-container {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.loading-container img {
+  height: 4px;
+}
+
+.form-loader-container img {
+  width: 20px;
+}

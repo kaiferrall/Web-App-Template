@@ -1,0 +1,9 @@
+# modules
+/app/node_modules
+/app/client/node_modules
+
+# environment
+.env
+
+#config
+/app/config/keys.js
