@@ -1,4 +1,4 @@
-#Web Application Template
+<h1>Web Application Template</h1>
 
 <h3>Purpose</h3>
 - To avoid redoing all the tedious features of a standard web application.
@@ -20,7 +20,7 @@
 - and more ...
 
 
-#Get Started
+<h1>Get Started</h1>
 
 <h3>Development</h3>
 - clone repository
